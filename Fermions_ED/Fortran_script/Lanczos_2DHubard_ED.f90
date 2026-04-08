@@ -1,6 +1,6 @@
 !-----------------------------------------------------------------------
-! 2D Hubbard ED with Lanczos ground-state builder 
-! - Builds basis, implements H * v (sparse action), Lanczos to obtain GS
+! 2D Hubbard ED with Lanczos ground-state 
+! - Builds basis, implements H * v, Lanczos to obtain GS
 ! - Returns ground-state energy and ground-state vector psi
 !-----------------------------------------------------------------------
 program hubbard_ed_2d
